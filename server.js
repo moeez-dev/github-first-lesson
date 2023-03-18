@@ -1,0 +1,1 @@
+const paymentDetail = 'wie939jfj4899203'
